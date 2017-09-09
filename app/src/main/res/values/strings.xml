@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Inventory Manager</string>
+    <string name="insert">Insert</string>
+    <string name="search_By_Code">Search by code</string>
+    <string name="search_by_descr">Search by description</string>
+    <string name="del_by_code">Delete by code</string>
+    <string name="free">Clean</string>
+    <string name="change">Change</string>
+</resources>
